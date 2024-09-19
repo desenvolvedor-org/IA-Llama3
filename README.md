@@ -1,4 +1,6 @@
-assita video: https://www.youtube.com/watch?v=yWaIMklMTsY
+1- Assita video: https://www.youtube.com/watch?v=yWaIMklMTsY
+2- Baixe todos as parte do Ollama na pasta ollama-download
+3- Siga os passo a passo do video.
 
 <p align="center">
   <img src="https://github.com/meta-llama/llama3/blob/main/Llama3_Repo.jpeg" width="400"/>
