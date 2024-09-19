@@ -1,6 +1,7 @@
 1- Assita video: https://www.youtube.com/watch?v=yWaIMklMTsY<br>
 2- Baixe todos as parte do Ollama na pasta ollama-download<br>
 3- Siga os passo a passo do video.<br>
+Obs: https://ollama.com/library tem vairos outras inteligencia artificial de codego aberto para baixar gratis<br>
 
 <p align="center">
   <img src="https://github.com/meta-llama/llama3/blob/main/Llama3_Repo.jpeg" width="400"/>
